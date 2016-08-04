@@ -1,0 +1,23 @@
+{
+  "name": "async-kakao",
+  "version": "1.0.0",
+  "description": "카카오 JavaScript SDK 를 비동기적으로 내려받습니다. 그리고 SDK 초기화를 진행시켜줍니다. 그러므로 DOMContentLoaded 이벤트 병목현상을 해소할 수 있습니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hckrmoon/async-kakao.git"
+  },
+  "keywords": [
+    "kakaotalk",
+    "카카오"
+  ],
+  "author": "hckrmoon <hckrmoon@ncsoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hckrmoon/async-kakao/issues"
+  },
+  "homepage": "https://github.com/hckrmoon/async-kakao#readme"
+}
