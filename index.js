@@ -1,4 +1,4 @@
-(function(s, x, k) {
+module.exports = function(k, s, x) {
     s = document.createElement('script');
     s.type = 'text/javascript';
     s.async = true;
@@ -12,4 +12,4 @@
     } else {
         x.parent.insertBefore(s, x);
     }
-})(k, s, x);
+};
